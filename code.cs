@@ -4,6 +4,6 @@ namespace code
 {
     class Program
     {
-        
+        Console.WriteLine("");
     }
 }
