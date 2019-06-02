@@ -7,7 +7,7 @@ namespace Project
 	{
 		private static void Main(string[] args)
 		{
-			
+			Essential.doWhileLoop();
 			Console.ReadKey();
 		}
 	}
@@ -15,6 +15,17 @@ namespace Project
 	
 	public class Essential
 	{
+		//Do-while Loop
+		public static void doWhileLoop()
+		{
+			int i = 0;
+			do
+			{
+				Console.WriteLine("0:" + (i+1));
+				i++;
+			}while(i<10);
+		}
+		
 		//TernaryOperator : Nested
 		public static void ternaryOperator()
 		{

@@ -4,3 +4,9 @@ C:\Users\Administrator\Documents\SharpDevelop Projects\a\a\bin\Debug\a.pdb
 C:\Users\Administrator\Documents\SharpDevelop Projects\a\a\obj\Debug\a.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\SharpDevelop Projects\a\a\obj\Debug\a.exe
 C:\Users\Administrator\Documents\SharpDevelop Projects\a\a\obj\Debug\a.pdb
+C:\Users\Administrator\Documents\GitHub\YetTest\a\bin\Debug\a.exe.config
+C:\Users\Administrator\Documents\GitHub\YetTest\a\bin\Debug\a.exe
+C:\Users\Administrator\Documents\GitHub\YetTest\a\bin\Debug\a.pdb
+C:\Users\Administrator\Documents\GitHub\YetTest\a\obj\Debug\a.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\YetTest\a\obj\Debug\a.exe
+C:\Users\Administrator\Documents\GitHub\YetTest\a\obj\Debug\a.pdb
